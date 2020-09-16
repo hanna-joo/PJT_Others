@@ -65,9 +65,9 @@
   + 기간: 2016.03 ~ 2016.12
   + 내용: 학교 축제 공연 (KPOP 터키어로 노래 및 댄스)
 
-## 자격증과 수상내역
+## 4. 자격증과 수상내역
 
-## [포트폴리오](https://github.com/hanna-joo/)
+## 5. [포트폴리오](https://github.com/hanna-joo/)
 - [고양시 공공자전거 최적 스테이션 선정 공모전](https://github.com/hanna-joo/contest/tree/master/Goyang_Public_Bicycle_Station)
   + 작업툴: Python(Google Colab)
   + 인원: 5명
