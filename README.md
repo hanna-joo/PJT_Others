@@ -76,6 +76,6 @@
   + 내용: 고양시 공공자전거 운영이력 데이터 및 공간 데이터를 활용 및  
   자전거 스테이션의 최적 위치를 선정하여 시민들의 공공자전거 사용에 대한  
   접근성을 개선하기 위한 프로젝트
-  + 역할: 데이터 오류 정정, QGIS를 통한 공간시각화 및 분석, 데이터 분석 방향 제시
+  + 역할: 데이터 오류 정정, QGIS를 통한 공간시각화 및 분석, 데이터 분석 방향 제시 
   + 결과물: [분석보고서](https://github.com/hanna-joo/project/blob/master/Goyang_Public_Bicycle_Station/%ED%94%BC%ED%94%84%ED%8B%B4%EC%9D%84%ED%83%84%EB%AC%B8%EB%8F%8C%EC%9D%B4_final_report.pdf), [분석코드](https://github.com/hanna-joo/project/blob/master/Goyang_Public_Bicycle_Station/%ED%94%BC%ED%94%84%ED%8B%B4%EC%9D%84%ED%83%84%EB%AC%B8%EB%8F%8C%EC%9D%B4_final_code.ipynb)
   + 주최기관: compas
