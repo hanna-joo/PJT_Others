@@ -68,8 +68,9 @@
 ## 4. 자격증과 수상내역
 
 ## 5. [포트폴리오](https://github.com/hanna-joo/)
-- [고양시 공공자전거 최적 스테이션 선정 공모전](https://github.com/hanna-joo/contest/tree/master/Goyang_Public_Bicycle_Station)
+- [고양시 공공자전거 스테이션 최적지 선정](https://github.com/hanna-joo/contest/tree/master/Goyang_Public_Bicycle_Station)
   + 작업툴: Python(Google Colab)
   + 인원: 5명
   + 기간: 20.08.21 ~ 20.09.11
   + 내용: 고양시 공공자전거 스테이션의 최적 위치를 선별하는 빅데이터 공모전
+  + 주최기관: compas
