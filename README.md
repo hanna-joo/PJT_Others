@@ -57,10 +57,6 @@
 - 활동명: **마음사랑학교 교육봉사**
   + 기간: 2017.03 ~ 2017.07
   + 내용: 마음사랑학교에서 교육봉사
-  
-- 활동명: **아르바이트**
-  + 기간: 2017.06 ~ 2017.08
-  + 내용: 주 4일 치킨 호프집에서 아르바이트
  
 - 활동명: **과내 댄스 동아리(얀크)**
   + 기간: 2016.03 ~ 2016.12
@@ -78,4 +74,5 @@
   접근성을 개선하기 위한 프로젝트
   + 역할: 데이터 오류 정정, QGIS를 통한 공간시각화 및 분석, 데이터 분석 방향 제시 
   + 결과물: [분석보고서](https://github.com/hanna-joo/project/blob/master/Goyang_Public_Bicycle_Station/%ED%94%BC%ED%94%84%ED%8B%B4%EC%9D%84%ED%83%84%EB%AC%B8%EB%8F%8C%EC%9D%B4_final_report.pdf), [분석코드](https://github.com/hanna-joo/project/blob/master/Goyang_Public_Bicycle_Station/%ED%94%BC%ED%94%84%ED%8B%B4%EC%9D%84%ED%83%84%EB%AC%B8%EB%8F%8C%EC%9D%B4_final_code.ipynb)
+  + 공모전 결과: 참가상
   + 주최기관: compas
