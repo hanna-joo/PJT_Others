@@ -84,12 +84,12 @@
   + 주최기관: compas
 
 
-- [KDX 유통소비데이터분석 & 시각화경진대회 - 소비트렌드 코리아 2020] (https://github.com/hannajoo/contest/tree/master/Goyang_Public_Bicycle_Station)
+- [KDX 유통소비데이터분석 & 시각화경진대회 - 소비트렌드 코리아 2020](https://github.com/hanna-joo/project/tree/master/Consumption_Trends_2020)
   + 작업툴: `Python`, `Jupyter Notebook`, `Google Colab`
   + 인원: 4명
   + 기간: 20.09.25 ~ 20.10.25
-  + 내용: 코로나 이후의 소비 트렌드 분석 
-  + 역할: 
-  + 결과물: [분석보고서](https://github.com/hanna-joo/project/blob/master/Goyang_Public_Bicycle_Station/%ED%94%BC%ED%94%84%ED%8B%B4%EC%9D%84%ED%83%84%EB%AC%B8%EB%8F%8C%EC%9D%B4_final_report.pdf), [분석코드](https://github.com/hanna-joo/project/blob/master/Goyang_Public_Bicycle_Station/%ED%94%BC%ED%94%84%ED%8B%B4%EC%9D%84%ED%83%84%EB%AC%B8%EB%8F%8C%EC%9D%B4_final_code.ipynb)
-  + 공모전 결과: 참가상
-  + 주최기관: compas
+  + 내용: 상관분석을 통한 코로나 관련 소비업종 선정 및 소비 트렌드 인사이트 도출
+  + 역할: Python 기반의 온라인 소비데이터 분석, Matplotlib을 이용한 시각화
+  + 결과물: [분석보고서](), [분석코드](https://github.com/hanna-joo/project/blob/master/Consumption_Trends_2020/final_analysis.ipynb)
+  + 공모전 결과: 장려상
+  + 주최기관: kdx
