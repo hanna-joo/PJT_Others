@@ -21,8 +21,8 @@
 - 활동명: **산업융합 빅데이터 분석가 양성과정**
   + 기간: 2020.07.27 ~ 2020.10.26 (488h)
   + 활동: 
-    + 파이썬을 기반으로 데이터 수집, 처리 및 분석 기술 습득
-    + 팀프로젝트
+   + 파이썬을 기반으로 데이터 수집, 처리 및 분석 기술 습득
+   + 팀프로젝트
   + 운영기관: [(주)아시아경제](https://asiaehr.modoo.at/)
   
 - 활동명: **교내 볼링 동아리(PLUTO)**
@@ -79,6 +79,17 @@
   자전거 스테이션의 최적 위치를 선정하여 시민들의 공공자전거 사용에 대한  
   접근성을 개선하기 위한 프로젝트
   + 역할: 데이터 오류 정정, QGIS를 통한 공간시각화 및 분석, 데이터 분석 방향 제시 
+  + 결과물: [분석보고서](https://github.com/hanna-joo/project/blob/master/Goyang_Public_Bicycle_Station/%ED%94%BC%ED%94%84%ED%8B%B4%EC%9D%84%ED%83%84%EB%AC%B8%EB%8F%8C%EC%9D%B4_final_report.pdf), [분석코드](https://github.com/hanna-joo/project/blob/master/Goyang_Public_Bicycle_Station/%ED%94%BC%ED%94%84%ED%8B%B4%EC%9D%84%ED%83%84%EB%AC%B8%EB%8F%8C%EC%9D%B4_final_code.ipynb)
+  + 공모전 결과: 참가상
+  + 주최기관: compas
+
+
+- [KDX 유통소비데이터분석 & 시각화경진대회 - 소비트렌드 코리아 2020] (https://github.com/hannajoo/contest/tree/master/Goyang_Public_Bicycle_Station)
+  + 작업툴: `Python`, `Jupyter Notebook`, `Google Colab`
+  + 인원: 4명
+  + 기간: 20.09.25 ~ 20.10.25
+  + 내용: 코로나 이후의 소비 트렌드 분석 
+  + 역할: 
   + 결과물: [분석보고서](https://github.com/hanna-joo/project/blob/master/Goyang_Public_Bicycle_Station/%ED%94%BC%ED%94%84%ED%8B%B4%EC%9D%84%ED%83%84%EB%AC%B8%EB%8F%8C%EC%9D%B4_final_report.pdf), [분석코드](https://github.com/hanna-joo/project/blob/master/Goyang_Public_Bicycle_Station/%ED%94%BC%ED%94%84%ED%8B%B4%EC%9D%84%ED%83%84%EB%AC%B8%EB%8F%8C%EC%9D%B4_final_code.ipynb)
   + 공모전 결과: 참가상
   + 주최기관: compas
