@@ -90,6 +90,6 @@
   + 기간: 20.09.25 ~ 20.10.25
   + 내용: 상관분석을 통한 코로나 관련 소비업종 선정 및 소비 트렌드 인사이트 도출
   + 역할: Python 기반의 온라인 소비데이터 분석, Matplotlib을 이용한 시각화
-  + 결과물: [분석보고서](), [분석코드](https://github.com/hanna-joo/project/blob/master/Consumption_Trends_2020/final_analysis.ipynb)
+  + 결과물: [분석보고서](4위), [분석코드](https://github.com/hanna-joo/project/blob/master/Consumption_Trends_2020/final_analysis.ipynb)
   + 공모전 결과: 장려상
   + 주최기관: kdx
