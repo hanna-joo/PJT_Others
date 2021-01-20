@@ -70,7 +70,7 @@
 - 소비트렌드2020 공모전 장려상 수상 (주최: KDX) 
 - ADsP (데이터분석 준전문가 자격증)
 - 매경 TEST 최우수 등급
-- OPIC AL 예정(2021.02.03)
+- OPIC AL (2021.02.03)
 
 ## 5. [포트폴리오](https://github.com/hanna-joo/)
 - [COMPAS - 고양시 공공자전거 스테이션 최적지 선정](https://github.com/hanna-joo/contest/tree/master/Goyang_Public_Bicycle_Station)
